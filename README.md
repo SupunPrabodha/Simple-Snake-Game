@@ -93,8 +93,3 @@ Contributions are welcome! Feel free to:
 
 ## 📄 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project as per the license terms.
-
-## ✨ Author
-
-Developed by `SupunPrabodha`.
-Feel free to reach out for collaboration or feedback!
