@@ -72,7 +72,7 @@ Enjoy playing the Snake Game in your terminal or console!
 ## 🔧 Customization
 
 1. Change Speed:
-Adjust the delay in the game loop by modifying the Sleep(milliseconds) function in the main() loop. For example:
+Adjust the delay in the game loop by modifying the **Sleep(milliseconds)** function in the **main()** loop. For example:
 
 ```bash
 Sleep(100); // Slows down the snake (100ms delay)
