@@ -62,7 +62,11 @@ Enjoy playing the Snake Game in your terminal or console!
 
 ## 📷 Screenshot
 
-![image](https://github.com/user-attachments/assets/1ad01e6d-69bb-4c5c-8191-54a404c47872)
+![image](https://github.com/user-attachments/assets/a3c5e54c-029b-4210-ad1f-3d973bf0e530)
+
+![image](https://github.com/user-attachments/assets/b4ba5a20-2ad9-4796-8b3b-0f5324748ce1)
+
+![image](https://github.com/user-attachments/assets/85b1b6a4-5ddf-4721-a54b-e58575482e92)
 
 
 ## 🔧 Customization
