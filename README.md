@@ -24,8 +24,8 @@ This project is a lightweight, console-based implementation, perfect for beginne
 1. Use the following keys to control the snake:
    - **W:** Move **Up**
    - **A:** Move **Left**
-   - **S:** Move Down**
-   - **D:** Move Right**
+   - **S:** Move **Down**
+   - **D:** Move **Right**
    - **X:** Exit the game
 2. The snake moves automatically in the current direction.
 3. Collect fruits (`F`) to score points and grow longer.
