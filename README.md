@@ -22,7 +22,7 @@ This project is a lightweight, console-based implementation, perfect for beginne
 
 ## 🕹️ How to Play
 1. Use the following keys to control the snake:
-   - **W:** Move Up
+   - **W:** Move **Up**
    - **A:** Move Left
    - **S:** Move Down
    - **D:** Move Right
