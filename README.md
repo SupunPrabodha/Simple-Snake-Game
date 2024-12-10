@@ -7,7 +7,7 @@ A simple and classic Snake Game built in **C++**! This project demonstrates fund
 ## 📖 Overview
 The Snake Game is a fun retro game where the player controls a snake to eat randomly placed fruits on the grid. The snake grows longer with each fruit it eats, and the player earns points. The game ends when the snake collides with itself or the wall.
 
-This project is a lightweight, console-based implementation, perfect for beginners learning C++ programming or game development.
+This project is a lightweight, console-based implementation, perfect for beginners learning **C++** programming or game development.
 
 ---
 
