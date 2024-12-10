@@ -1,6 +1,6 @@
 # Snake Game 🎮
 
-A simple and classic Snake Game built in **C++**! This project demonstrates fundamental game programming techniques using **console-based** graphics and keyboard inputs.
+A simple and classic Snake Game built in **C++**! This project demonstrates fundamental game programming techniques using **console-based** graphics and **keyboard inputs.**
 
 ---
 
