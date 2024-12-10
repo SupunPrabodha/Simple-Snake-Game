@@ -52,7 +52,7 @@ Use a **C++ compiler** to build the program. For example:
    ./SnakeGame
 ```
 
-- Using Visual Studio:
+- Using **Visual Studio**:
 1. Open **Visual Studio** and **create a new Console** Application.
 2. Replace the auto-generated main.cpp file with SnakeGame.cpp.
 3. Build the project and run it (F5 or Ctrl + F5).
