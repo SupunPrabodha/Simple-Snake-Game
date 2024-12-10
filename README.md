@@ -44,7 +44,7 @@ Clone the project to your local machine:
 ```
 
 ### 2. Compile the Code
-Use a C++ compiler to build the program. For example:
+Use a **C++ compiler** to build the program. For example:
 
 - With g++ (Linux/Windows):
 ```bash
